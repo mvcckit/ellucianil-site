@@ -1,4 +1,4 @@
-// # miner
+// # App
 //
 // The core methods and properties.
 //

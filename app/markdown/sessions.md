@@ -1,3 +1,7 @@
+# Presenting?
+
+I want to present a [Colleague](mailto:ostuckma@jjc.edu) or [Banner](mailto:bgunnink@stfrancis.edu) session.
+
 # Best Practices and Technologies for your Banner/Colleague Reporting Environment
 
 Join our session to learn how education institutions like Stephen F. Austin, Weber State University and Tennessee Board of Regents leverage access to live Banner/Colleague data in Excel to save time and resources on higher education reporting each week. 
