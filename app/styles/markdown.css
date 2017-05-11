@@ -1,0 +1,39 @@
+/* ==========================================================================
+   #markdown
+   ========================================================================== */
+
+/**
+ * s-md is a scoping class used to style the sessions.md markdown file.
+ */
+
+/* 
+   #headings
+   ========================================================================== */
+
+.s-md h1,
+.s-md h2 {
+	margin-left: -2em;
+	padding-left: 2em;
+	font-size: 120%;
+	line-height: 1.5;
+	color: #fff;
+	background-color: #662a72;
+}
+
+/* 
+   #headings
+   ========================================================================== */
+
+.s-md ul {
+	padding-left: 1em;
+}
+/* 
+   #blockquote
+   ========================================================================== */
+
+.s-md blockquote {
+	margin-left: 0;
+	padding:.5em;
+	border-left: 8px solid #662a72;
+	background: #F2F2F2;
+}

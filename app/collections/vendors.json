@@ -1,0 +1,52 @@
+[
+	{
+		"name":		"ACI",
+		"image": 	"aci.jpg",
+		"url":		"http://www.aciworldwide.com/"
+	},
+	{
+		"name":		"ASR",
+		"image": 	"asr.jpg",
+		"url":		"http://www.asranalytics.com"
+	},
+	{
+		"name":		"Ellucian",
+		"image": 	"ellucian.jpg",
+		"url":		"http://www.ellucian.com/"
+	},
+	{
+		"name":		"Entrinsik",
+		"image": 	"entrinsik.jpg",
+		"url":		"http://www.entrinsik.com/"
+	},
+	{
+		"name":		"Explorance",
+		"image": 	"explorance.jpg",
+		"url":		"http://www.explorance.com/"
+	},
+	{
+		"name":		"Kofax",
+		"image": 	"kofax.jpg",
+		"url":		"http://www.kofax.com/"
+	},
+	{
+		"name":		"Lexmark",
+		"image": 	"lexmark.jpg",
+		"url":		"https://www.lexmark.com/"
+	},
+	{
+		"name":		"Touchnet",
+		"image": 	"touchnet.jpg",
+		"url":		"http://www.touchnet.com/"
+	},	
+	{
+		"name":		"Softdocs",
+		"image": 	"softdocs.jpg",
+		"url":		"http://www.softdocs.com/"
+	},
+	{
+		"name":		"Trimdata",
+		"image": 	"trimdata.jpg",
+		"url":		"http://www.trimdata.com/"
+	}
+]

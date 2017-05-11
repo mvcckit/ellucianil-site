@@ -1,0 +1,37 @@
+[
+	{
+		"starts":	"8:30 am",
+		"ends":		"9:15 am",
+		"item":		"General Opening Session"
+	},
+	{
+		"starts":	"9:30 am",
+		"ends":		"10:20 am",
+		"item":		"Breakout Sessions"
+	},
+	{
+		"starts":	"10:30 am",
+		"ends":		"11:20 am",
+		"item":		"Breakout Sessions"
+	},
+	{
+		"starts":	"11:30 am",
+		"ends":		"12:30 pm",
+		"item":		"Lunch &amp; Visit Vendor Stations"
+	},
+	{
+		"starts":	"1:00 pm",
+		"ends":		"1:50 pm",
+		"item":		"Breakout Sessions"
+	},
+	{
+		"starts":	"2:00 pm",
+		"ends":		"2:50 pm",
+		"item":		"Breakout Sessions"
+	},	
+	{
+		"starts":	"3:00 pm",
+		"ends":		"3:50 pm",
+		"item":		"Roundtable Discussions &amp; Refreshments"
+	}
+]

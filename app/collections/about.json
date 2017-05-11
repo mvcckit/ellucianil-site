@@ -1,0 +1,18 @@
+[
+	{
+		"name":	"Date",
+		"text":	"May 25th, 2017"
+	},
+	{
+		"name":	"Times",
+		"text":	"8:30 am - 4:00 pm"
+	},
+	{
+		"name":	"Location",
+		"text":	"Moraine Valley Community College, Building M."
+	},
+	{
+		"name":	"Cost",
+		"text":	"$20 per person. Presenters are free."
+	}
+]
