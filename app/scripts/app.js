@@ -1,4 +1,4 @@
-// # miner
+// # EllucianIL
 //
 // The core methods and properties.
 //
