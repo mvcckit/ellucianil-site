@@ -1,4 +1,4 @@
-// # EllucianIL
+// # App
 //
 // The core methods and properties.
 //
