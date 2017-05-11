@@ -1,6 +1,6 @@
 ![Logo](https://github.com/eric-harms/ellucianil-site/blob/master/doc/img/logo.png?raw=true)
 
-* [Annotated Source](https://cdn.rawgit.com/eric-harms/ellucianil/master/doc/docco/app.full.html)
+* [Annotated Source](https://cdn.rawgit.com/eric-harms/ellucianil-site/master/doc/docco/app.full.html)
 
 # ellucianil-site
 
